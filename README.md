@@ -4,15 +4,15 @@ Repositorio con los archivos utilizados en el trabajo final de Estructuras de Da
 
 ## Alumnos
 
-**Maira Monzon**
-**Flavio Salas**
-**Marcos Lugones**
-**Gonzalo Copes**
+**Maira Monzon**  
+**Flavio Salas**  
+**Marcos Lugones**  
+**Gonzalo Copes**  
 
 ## Docentes
 
-**Diego Agustín Ambrossio**
-**Adrian Rodriguez**
+**Diego Agustín Ambrossio**  
+**Adrian Rodriguez**  
 
 ## Fecha
 
